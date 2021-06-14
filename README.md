@@ -4,6 +4,7 @@
 ehco "openwrt的shell命令无bash，不若crontab自动运行报错'/bin/ash: /root/cpjd.sh: not found'"
 enjoy~
 
+针对三个人建立的库，呵呵
 
 京东扫码版本已经更新：
 · 修复了多人同时登录时的Bug
